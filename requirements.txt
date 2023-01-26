@@ -1,0 +1,4 @@
+Markdown==3.4.1
+python-dotenv==0.21.1
+requests==2.27.1
+
